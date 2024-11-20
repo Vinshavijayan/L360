@@ -1,4 +1,3 @@
-import Link from "next/link";
 import React from "react";
 import { ChevronDown, ArrowDown, Search } from "lucide-react";
 import Image from "next/image";

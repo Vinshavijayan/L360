@@ -1,6 +1,5 @@
 "use client";
 import React, { useState } from "react";
-import Image from "next/image";
 
 export default function Courses() {
   const [activeTab, setActiveTab] = useState(0);

@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import { ChevronDown, CircleArrowRight, Search } from "lucide-react";
+import {  CircleArrowRight, Search } from "lucide-react";
 
 export default function Application() {
   return (
