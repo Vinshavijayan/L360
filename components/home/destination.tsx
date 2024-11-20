@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useCallback, useRef } from "react";
+import React from "react";
 import { ArrowRight, ArrowLeft } from "lucide-react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import ImageSmCard from "@/components/cards/imageSmCard";
@@ -56,17 +56,18 @@ const dataArr = [
 ];
 
 export default function Destination() {
-  const sliderRef = useRef<any>(null);
+  // const sliderRef = useRef<any>(null);
 
-  const handlePrev = useCallback(() => {
-    if (!sliderRef.current) return;
-    sliderRef?.current?.swiper.slidePrev();
-  }, []);
 
-  const handleNext = useCallback(() => {
-    if (!sliderRef.current) return;
-    sliderRef?.current?.swiper.slideNext();
-  }, []);
+  // const handlePrev = useCallback(() => {
+  //   if (!sliderRef.current) return;
+  //   sliderRef?.current?.swiper.slidePrev();
+  // }, []);
+
+  // const handleNext = useCallback(() => {
+  //   if (!sliderRef.current) return;
+  //   sliderRef?.current?.swiper.slideNext();
+  // }, []);
 
   return (
     <section className="py-28 container  xl:mx-auto px-5 xl:px-12">
@@ -80,14 +81,14 @@ export default function Destination() {
         <div className="flex items-center gap-3">
           <button
             className="bg-primary hover:bg-transparent transition-all hover:text-primary border-2 border-primary   text-white font-bold p-2 rounded-full"
-            onClick={handlePrev}
+            // onClick={handlePrev}
           >
             <ArrowLeft size={20} />
           </button>
 
           <button
             className="bg-primary hover:bg-transparent transition-all hover:text-primary border-2 border-primary   text-white font-bold p-2 rounded-full"
-            onClick={handleNext}
+            // onClick={handleNext}
           >
             <ArrowRight size={20} />
           </button>
@@ -95,7 +96,7 @@ export default function Destination() {
       </div>
       <div className="mt-10 w-full lg:w-[100vw] xl:[90vw] ">
         <Swiper
-          ref={sliderRef}
+          // ref={sliderRef}
           slidesPerView={1}
           breakpoints={{
             640: {

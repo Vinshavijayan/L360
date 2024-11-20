@@ -1,7 +1,6 @@
 import React from "react";
 import Link from "next/link";
 import { MoveRight } from "lucide-react";
-import Image from "next/image";
 type PageHeaderProps = {
   title: string;
   description: string;

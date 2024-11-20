@@ -1,7 +1,7 @@
 "use client";
 import React, { useState } from "react";
 import Image from "next/image";
-import { ArrowRight, ArrowLeft, Search } from "lucide-react";
+import { ArrowRight, ArrowLeft } from "lucide-react";
 
 export default function Related() {
   const [position, setPosition] = useState(0); // State for drag position

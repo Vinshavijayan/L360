@@ -22,7 +22,7 @@ export default function Cards() {
           </h2>
           <p className="text-lg text-black mt-4 px-8">
             Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
+            industry. Lorem Ipsum has been the industry`s standard dummy text
             ever since the 1500s, when an unknown printer
           </p>
 
@@ -45,7 +45,7 @@ export default function Cards() {
           </h2>
           <p className="text-lg text-black mt-4 px-8">
             Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
+            industry. Lorem Ipsum has been the industry`s standard dummy text
             ever since the 1500s, when an unknown printer
           </p>
           <button className="mt-5 px-4 py-2 bg-primary hover:bg-transparent transition-all hover:text-primary border-2 border-primary  text-white font-bold rounded-full ">
@@ -66,29 +66,7 @@ export default function Cards() {
           </h2>
           <p className="text-lg text-black mt-4 px-8">
             Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer
-          </p>
-          <button className="mt-5 px-4 py-2 bg-primary hover:bg-transparent transition-all hover:text-primary border-2 border-primary  text-white font-bold rounded-full ">
-            Learn More
-          </button>
-        </div>
-
-        <div className="bg-gray-100 rounded-lg p-4 flex flex-col items-center text-center xl:mt-4">
-          <Image
-            src="/images/services/uk.jpg"
-            width={300}
-            height={300}
-            alt="Services images"
-            className="w-full h-40 rounded-lg object-cover"
-          />
-          <p className="text-md mt-8">March 16, 2024</p>
-          <h2 className="text-xl font-bold mt-2">
-            Elevating your visa application navigating complexity
-          </h2>
-          <p className="text-lg text-black mt-4 px-8">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
+            industry. Lorem Ipsum has been the industry`s standard dummy text
             ever since the 1500s, when an unknown printer
           </p>
           <button className="mt-5 px-4 py-2 bg-primary hover:bg-transparent transition-all hover:text-primary border-2 border-primary  text-white font-bold rounded-full ">
@@ -110,7 +88,7 @@ export default function Cards() {
           </h2>
           <p className="text-lg text-black mt-4 px-8">
             Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
+            industry. Lorem Ipsum has been the industry`s standard dummy text
             ever since the 1500s, when an unknown printer
           </p>
           <button className="mt-5 px-4 py-2 bg-primary hover:bg-transparent transition-all hover:text-primary border-2 border-primary  text-white font-bold rounded-full ">
@@ -132,7 +110,7 @@ export default function Cards() {
           </h2>
           <p className="text-lg text-black mt-4 px-8">
             Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
+            industry. Lorem Ipsum has been the industry`s standard dummy text
             ever since the 1500s, when an unknown printer
           </p>
           <button className="mt-5 px-4 py-2 bg-primary hover:bg-transparent transition-all hover:text-primary border-2 border-primary  text-white font-bold rounded-full ">
@@ -154,7 +132,7 @@ export default function Cards() {
           </h2>
           <p className="text-lg text-black mt-4 px-8">
             Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
+            industry. Lorem Ipsum has been the industry`s standard dummy text
             ever since the 1500s, when an unknown printer
           </p>
           <button className="mt-5 px-4 py-2 bg-primary hover:bg-transparent transition-all hover:text-primary border-2 border-primary  text-white font-bold rounded-full ">
@@ -176,7 +154,7 @@ export default function Cards() {
           </h2>
           <p className="text-lg text-black mt-4 px-8">
             Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
+            industry. Lorem Ipsum has been the industry`s standard dummy text
             ever since the 1500s, when an unknown printer
           </p>
           <button className="mt-5 px-4 py-2 bg-primary hover:bg-transparent transition-all hover:text-primary border-2 border-primary  text-white font-bold rounded-full ">
@@ -198,7 +176,7 @@ export default function Cards() {
           </h2>
           <p className="text-lg text-black mt-4 px-8">
             Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
+            industry. Lorem Ipsum has been the industry`s standard dummy text
             ever since the 1500s, when an unknown printer
           </p>
           <button className="mt-5 px-4 py-2 bg-primary hover:bg-transparent transition-all hover:text-primary border-2 border-primary  text-white font-bold rounded-full ">
@@ -220,7 +198,7 @@ export default function Cards() {
           </h2>
           <p className="text-lg text-black mt-4 px-8">
             Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
+            industry. Lorem Ipsum has been the industry`s standard dummy text
             ever since the 1500s, when an unknown printer
           </p>
           <button className="mt-5 px-4 py-2 bg-primary hover:bg-transparent transition-all hover:text-primary border-2 border-primary  text-white font-bold rounded-full ">
@@ -242,7 +220,7 @@ export default function Cards() {
           </h2>
           <p className="text-lg text-black mt-4 px-8">
             Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
+            industry. Lorem Ipsum has been the industry`s standard dummy text
             ever since the 1500s, when an unknown printer
           </p>
           <button className="mt-5 px-4 py-2 bg-primary hover:bg-transparent transition-all hover:text-primary border-2 border-primary  text-white font-bold rounded-full ">
@@ -264,7 +242,29 @@ export default function Cards() {
           </h2>
           <p className="text-lg text-black mt-4 px-8">
             Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
+            industry. Lorem Ipsum has been the industry`s standard dummy text
+            ever since the 1500s, when an unknown printer
+          </p>
+          <button className="mt-5 px-4 py-2 bg-primary hover:bg-transparent transition-all hover:text-primary border-2 border-primary  text-white font-bold rounded-full ">
+            Learn More
+          </button>
+        </div>
+
+        <div className="bg-gray-100 rounded-lg p-4 flex flex-col items-center text-center xl:mt-4">
+          <Image
+            src="/images/services/uk.jpg"
+            width={300}
+            height={300}
+            alt="Services images"
+            className="w-full h-40 rounded-lg object-cover"
+          />
+          <p className="text-md mt-8">March 16, 2024</p>
+          <h2 className="text-xl font-bold mt-2">
+            Elevating your visa application navigating complexity
+          </h2>
+          <p className="text-lg text-black mt-4 px-8">
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry. Lorem Ipsum has been the industry`s standard dummy text
             ever since the 1500s, when an unknown printer
           </p>
           <button className="mt-5 px-4 py-2 bg-primary hover:bg-transparent transition-all hover:text-primary border-2 border-primary  text-white font-bold rounded-full ">
