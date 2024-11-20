@@ -1,4 +1,3 @@
-import Image from "next/image";
 import LandingSec from "@/components/home/landing";
 import Destination from "@/components/home/destination";
 import Scholarship from "@/components/home/scholarship";
